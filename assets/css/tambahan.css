@@ -1,0 +1,21 @@
+.card-title{
+	word-wrap: break-word;
+	font-size:.84em;
+}
+.formpelanggan label {
+	font-size:.8em;
+}
+legend {
+	font-size:1rem;
+	font-weight:600;
+}
+a {
+	color:#151965;
+}
+a:hover{
+	color:#32407b;
+	text-decoration:none;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #c9d1d3!important;
+  opacity: 1; /* Firefox */
